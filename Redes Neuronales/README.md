@@ -1,4 +1,7 @@
 # Resumen de los archivos
+
+Estos trabajos se han realizado en la _Capacitacion de aprendizaje estadisitico_, dictado en el CSC-Conicet como parte del programa de pasantias, en donde se realizo un enfoque sobre redes neuronales en distintas aplicaciones, algunos de los trabajos fueron los siguientes.
+
 ## Clasificacion
 Hay algunas aplicaciones sobre como resolver problemas de clasificacion con redes neuronales.
 
