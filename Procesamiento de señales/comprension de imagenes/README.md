@@ -1,4 +1,4 @@
-# Descripción
+# Descripción del trabajo
 Durante la realización de este trabajo práctico, centrado en la compresión de imágenes utilizando la transformada de Karhunen-Loeve (KLT) y análisis de componentes principales (PCA), se desarrollaron las siguientes habilidades:
 
 1. **Manipulación y Procesamiento de Imágenes**
