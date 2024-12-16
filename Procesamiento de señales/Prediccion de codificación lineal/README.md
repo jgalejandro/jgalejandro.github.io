@@ -1,4 +1,4 @@
-#Resumen
+# Resumen
 Durante el desarrollo de este proyecto se adquirieron y fortalecieron las siguientes habilidades a nivel de programación y procesamiento de señales:
 
 ### Programación
