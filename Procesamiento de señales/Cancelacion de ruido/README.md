@@ -1,3 +1,4 @@
+# Descripcion del trabajo
 Durante la realización de este trabajo se centro en el diseño e implementación de filtros adaptativos para la cancelación de ruido y eliminación de interferencias, se desarrollaron las siguientes habilidades:
 
 - **Procesamiento de Señales Digitales**
