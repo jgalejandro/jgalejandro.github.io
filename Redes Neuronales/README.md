@@ -30,3 +30,7 @@ Estos trabajos se han realizado en la _Capacitacion de aprendizaje estadisitico_
 
 - Uso de bibliotecas como TensorFlow/Keras para modelado, Matplotlib para visualización, y Scikit-learn para análisis de métricas.
 - Implementación eficiente de modelos en GPU para entrenamiento y evaluación.
+
+### **Póster: "Comprender el Deep Learning Requiere Repensar la Generalización" **
+El póster se desarrolló como parte del programa de pasantías y aborda el problema de la generalización en redes neuronales profundas.
+Este póster aborda la capacidad de generalización de las redes neuronales profundas, explorando cómo modelos con más parámetros que datos pueden generalizar efectivamente. Basado en el paper "Understanding Deep Learning Requires Rethinking Generalization", presenta un marco experimental que incluye pruebas de randomización de etiquetas, regularización mediante Data Augmentation y Weight Decay, y análisis en arquitecturas como Inception, AlexNet y MLP. Los resultados destacan que, aunque la regularización mejora el rendimiento, no es la causa fundamental de la generalización, planteando preguntas abiertas sobre las razones detrás de esta capacidad en modelos complejos.
